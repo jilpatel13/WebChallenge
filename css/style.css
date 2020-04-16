@@ -1,0 +1,40 @@
+.nav-wrapper
+{
+    background-color: #512da8;
+}
+
+.slider .indicators .indicator-item.active
+{
+    background-color: #512da8;
+}
+
+.heading
+{
+    background-color: #fff;
+}
+
+.para
+{
+    background-color: #fff;
+}
+
+.team
+{
+    text-align: center;
+}
+
+.parallax-container
+{
+    min-height: 400px;
+    height: auto;
+}
+
+.footer-one
+{
+    background-color: #5625c9;
+}
+
+.footer-two
+{
+    background-color: #5625c9;
+}
